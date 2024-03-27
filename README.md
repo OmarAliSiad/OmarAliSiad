@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omarali&label=Profile%20views&color=0e75b6&style=flat" alt="omarali" /> </p>
 
-- 👨‍💻My Projects in [https://www.linkedin.com/in/omar-ali-2143b6261/](https://www.linkedin.com/in/omar-ali-2143b6261/)
 
 - 📫 How to reach me **https://github.com/OmarAliSiad**
 
