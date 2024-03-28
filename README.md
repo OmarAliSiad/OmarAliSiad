@@ -4,7 +4,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱** | **Instructor** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | **Flutter Developer 📱** | **Embedded Developer** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
