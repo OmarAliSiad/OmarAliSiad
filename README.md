@@ -1,4 +1,4 @@
-<div align="center">
+<div align="Top">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Omar+Ali!+I'm + Flutter Developer and Embedded Developer ;" />
 </div>
 
@@ -9,7 +9,7 @@
 - 🌱 I’m currently learning **Advanced Flutter**.
 
 - 👨‍💻 All of my projects are available at **[My Repository](https://github.com/OmarAliSiad?tab=repositories)**.
-- 
+ 
 - 📫 How to reach me **https://github.com/OmarAliSiad**
 
 <h3 align="left">Connect with me:</h3>
