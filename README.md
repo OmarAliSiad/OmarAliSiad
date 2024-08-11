@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | **Mobile Application Developer 📱 ** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | Mobile Application Developer 📱 ** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
