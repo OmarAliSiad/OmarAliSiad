@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me:
 
-- 🔭 I’m currently working as a **Software Engineer 💻** | Full stack | front end | back end | Mobile Application Developer 📱 ** .
+- 🔭 I’m currently working as a **Software Engineer 💻** | Mobile Application Developer 📱 ** .
 
 - 🌱 I’m currently learning **Advanced Flutter**.
 
@@ -19,32 +19,15 @@
 <br>
 
 ## 🚀 Languages and Tools:
-
-**📱 Mobile Development**
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
+    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,cpp,c,python" />
+    <img src="https://skillicons.dev/icons?i=github,androidstudio,vscode,figma,postman,html,css,azure,git" /><br>
 </div>
 
-**🌐 Frontend**
+<br>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" />
+    <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
-
-**⚙️ Backend**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</div>
-
-**🤖 AI & Data**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,python,jupyter" />
-</div>
-
-**🛠️ Tools & DevOps**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,azure" />
-</div>
-
 <br>
 
 ## 📊 My Stats:
