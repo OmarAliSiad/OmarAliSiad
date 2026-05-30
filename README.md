@@ -20,34 +20,7 @@
 
 <br>
 
-## 🚀 Languages and Tools:
 
-**📱 Mobile Development**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,androidstudio" />
-</div>
-
-**🌐 Frontend**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,javascript,html,css,tailwind,bootstrap" />
-</div>
-
-**⚙️ Backend**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres" />
-</div>
-
-**🤖 AI & Data**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=tensorflow,python,jupyter" />
-</div>
-
-**🛠️ Tools & DevOps**
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,figma,postman,azure" />
-</div>
-
-<br>
 
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
