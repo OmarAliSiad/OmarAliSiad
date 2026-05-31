@@ -57,12 +57,14 @@
 
 <p align="center">
   <a href="https://github.com/OmarAliSiad">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmarAliSiad&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Omar Ali's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmarAliSiad&cache_seconds=7200&layout=compact&theme=black-ice&hide_border=true&bg_color=060A0CD0&border_radius=10&title_color=00BFFF&text_color=ffffff&icon_color=00BFFF" alt="Omar Ali's GitHub Stats" />
   </a>
-<br>
-  <img src="https://streak-stats.demolab.com/?user=OmarAliSiad&theme=radical&hide_border=true&cache_seconds=86400" alt="Omar Ali's GitHub Streak" width="49%" />
+</p>
 
-
+<p align="center">
+  <a href="https://github.com/OmarAliSiad/github-readme-streak-stats">
+    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OmarAliSiad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAliSiad&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
+  </a>
 </p>
 
 <p align="center">
