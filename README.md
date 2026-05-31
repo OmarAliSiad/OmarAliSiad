@@ -62,11 +62,7 @@
   <img src="https://streak-stats.demolab.com/?user=OmarAliSiad&theme=radical&hide_border=true&cache_seconds=86400" alt="Omar Ali's GitHub Streak" width="49%" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/OmarAliSiad/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="OmarAliSiad's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=OmarAliSiad&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0" />
-  </a>
-</p>
+<br> <br>
 
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=OmarAliSiad&theme=radical&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Omar Ali's GitHub Trophies" />
