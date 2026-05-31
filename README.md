@@ -59,9 +59,9 @@
   <a href="https://github.com/OmarAliSiad">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=OmarAliSiad&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="Omar Ali's GitHub Stats" />
   </a>
+<br>
   <img src="https://streak-stats.demolab.com/?user=OmarAliSiad&theme=radical&hide_border=true&cache_seconds=86400" alt="Omar Ali's GitHub Streak" width="49%" />
 
-<br> <br>
 
 </p>
 
